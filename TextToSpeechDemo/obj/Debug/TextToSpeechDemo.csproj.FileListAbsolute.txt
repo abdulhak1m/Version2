@@ -1,0 +1,10 @@
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csprojAssemblyReference.cache
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
